@@ -1,0 +1,14 @@
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\YoutubeVideoDownloader.exe.config
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\YoutubeVideoDownloader.exe
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\YoutubeVideoDownloader.pdb
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\Newtonsoft.Json.dll
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\YoutubeExtractor.dll
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\Newtonsoft.Json.xml
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\bin\Debug\YoutubeExtractor.xml
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\YoutubeVideoDownloader.csprojResolveAssemblyReference.cache
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\YoutubeVideoDownloader.Form1.resources
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\YoutubeVideoDownloader.Properties.Resources.resources
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\YoutubeVideoDownloader.csproj.GenerateResource.Cache
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\YoutubeVideoDownloader.csproj.CoreCompileInputs.cache
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\YoutubeVideoDownloader.exe
+c:\Users\Kerim\source\repos\YoutubeVideoDownloader\YoutubeVideoDownloader\obj\Debug\YoutubeVideoDownloader.pdb
